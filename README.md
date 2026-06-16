@@ -1,4 +1,4 @@
-# IMC Prosperity 4
+<img width="1770" height="948" alt="image" src="https://github.com/user-attachments/assets/bb7cb2f5-3f88-47fb-aa76-854232697638" /># IMC Prosperity 4
 
 IMC Prosperity 4, 2026 edition, was a global algorithmic trading competition with thousands of teams from around the world. Over five rounds spread across roughly two weeks, teams trade a fictional set of products on a fictional island, with the goal of growing as much virtual capital ("SeaShells") as possible.
 
@@ -155,7 +155,9 @@ Here's what actually happened, in our own words after results came out:
 
 So the honest version of the comeback is two things at once: a **good design decision** (build a general detector that scalps the rectangular-jump pattern on *any* product, rather than hard-coding it to one) and a **slice of luck** (the pattern happened to run on Oxygen Shake Chocolate for the entire scored day). 489k of our 522k algo PnL came from that single behaviour firing on one product.
 
-That was enough to vault us from 168th to **23rd overall.**
+That was enough to vault us from 168th to **23rd overall.** Further inspecting the profit distribution amongst all the teams, our experience of having most of our deployed strategies being noise was not unique; the median team had essentially profited 0 XIRECS in this final round, with the average team losing quite a bit! 
+
+<img width="1770" height="948" alt="image" src="https://github.com/user-attachments/assets/b7bccd68-a8c6-4aaa-84ea-9926b383ab26" />
 
 ### Results
 
