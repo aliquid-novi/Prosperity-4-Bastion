@@ -1,4 +1,4 @@
-IMC Prosperity 4, 2026 edition, was a global algorithmic trading competition with thousands of teams from around the world. Over five rounds spread across roughly two weeks, teams trade a fictional set of products on a fictional island, with the goal of growing as much virtual capital ("SeaShells") as possible.
+IMC Prosperity 4, 2026 edition, was a global algorithmic trading competition with thousands of teams from around the world. Over five rounds spread across roughly two weeks, teams trade a fictional set of products in space, with the goal of growing as much virtual capital ("XIRECS") as possible.
 
 Each round has two parts:
 
